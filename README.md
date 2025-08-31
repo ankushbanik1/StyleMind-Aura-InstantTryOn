@@ -1,14 +1,17 @@
+Got it 👍 — here’s your **README.md** reformatted without any emojis:
 
-# 🎨✨ StyleMind – AI Virtual Try-On for E-commerce
+---
+
+# StyleMind – AI Virtual Try-On for E-commerce
 
 Transform your online shopping experience with **StyleMind's AI-powered virtual try-on technology.**
 Upload your photo or use an AI-generated avatar to see how clothes look before making purchase decisions.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔹 Advanced Virtual Try-On Pipeline
+### Advanced Virtual Try-On Pipeline
 
 * **Human Parsing & Pose Estimation** – Precise body segmentation and keypoint detection
 * **Garment Parsing & Classification** – Intelligent product identification and categorization
@@ -16,7 +19,7 @@ Upload your photo or use an AI-generated avatar to see how clothes look before m
 * **Photorealistic Post-Processing** – Seamless integration using cross-attention mechanisms
 * **Multi-Garment Composition** – Layer-aware synthesis for complete outfit generation
 
-### 🔹 AI Avatar Generation System
+### AI Avatar Generation System
 
 * **Stable Diffusion Pipeline** – State-of-the-art image generation
 * **Parametric Human Modeling (SMPL)** – Accurate body prior estimation
@@ -24,14 +27,14 @@ Upload your photo or use an AI-generated avatar to see how clothes look before m
 * **Style Transfer** – Multiple avatar styles & customization options
 * **Privacy-First Design** – Local-first processing with secure cloud support
 
-### 🔹 Smart Product Detection
+### Smart Product Detection
 
 * **Cross-Platform Support** – Works with Amazon and other e-commerce sites
 * **Real-Time Classification** – AI-powered garment identification
 * **Feature Extraction** – Automatic detection of garment attributes
 * **Multi-Modal Analysis** – Combining text + visual understanding
 
-### 🔹 Outfit Builder & Composition
+### Outfit Builder & Composition
 
 * Combine **shirts, pants, and accessories** seamlessly
 * **Layer-Aware Rendering** – Jackets over shirts, accessories on top
@@ -40,47 +43,47 @@ Upload your photo or use an AI-generated avatar to see how clothes look before m
 
 ---
 
-## 🛡️ Safety & Trust
+## Safety & Trust
 
-### 🔸 Content Safety
+### Content Safety
 
 * NSFW detection & moderation
 * Bias mitigation with fair AI training
 * Automated quality checks
 
-### 🔸 Privacy Protection
+### Privacy Protection
 
 * Client-side processing wherever possible
 * Ephemeral data handling (auto-deletion)
 * End-to-end encrypted transmission
+* GDPR/CCPA compliance
 
-
-### 🔸 Security Measures
+### Security Measures
 
 * OAuth2 authentication
 * API key management
 * Rate limiting & abuse prevention
-
+* Comprehensive audit logging
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
-### 🛍️ E-commerce Enhancement
+### E-commerce Enhancement
 
 * Reduce product returns
 * Increase conversions
 * Boost customer confidence
 * Brand differentiation
 
-### 👗 Fashion Discovery
+### Fashion Discovery
 
 * Try new looks risk-free
 * Visualize fits across brands
 * Experiment with fashion trends
 * AI-driven personal styling
 
-### 📱 Social Commerce
+### Social Commerce
 
 * Shareable try-on results
 * Fashion community engagement
@@ -89,7 +92,7 @@ Upload your photo or use an AI-generated avatar to see how clothes look before m
 
 ---
 
-## 📦 AI Use & Architecture
+## AI Use & Architecture
 
 StyleMind’s pipeline ensures **natural try-on results**:
 
@@ -102,7 +105,7 @@ StyleMind’s pipeline ensures **natural try-on results**:
 
 ---
 
-## 🔌 Installation
+## Installation
 
 ### Chrome Web Store
 
@@ -121,7 +124,7 @@ StyleMind’s pipeline ensures **natural try-on results**:
 
 ---
 
-## 🛠️ API Integration
+## API Integration
 
 * **StyleMind B2C API** – User management & credits
 * **Groq API** – Product classification & analysis
@@ -160,7 +163,7 @@ POST /api/user/credits/deduct
 
 ---
 
-## 📊 Performance & Benchmarks
+## Performance & Benchmarks
 
 * **Try-On Generation:** < 30s
 * **Avatar Creation:** < 60s
@@ -175,7 +178,7 @@ POST /api/user/credits/deduct
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -207,30 +210,30 @@ POST /api/user/credits/deduct
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### ✅ Phase 1 – Core Features
+### Phase 1 – Core Features
 
 * Virtual try-on
 * AI avatars
 * Multi-platform support
 * Credit system
 
-### 🚧 Phase 2 – Advanced Features
+### Phase 2 – Advanced Features
 
 * 3D avatars
 * Video try-on
 * AR integration
 * Mobile app
 
-### 📋 Phase 3 – Enterprise Features
+### Phase 3 – Enterprise Features
 
 * White-label solutions
 * API marketplace
 * Advanced analytics
 * Custom model training
 
-### 🔮 Phase 4 – Ecosystem Expansion
+### Phase 4 – Ecosystem Expansion
 
 * Social commerce integration
 * AI stylist assistant
@@ -239,7 +242,7 @@ POST /api/user/credits/deduct
 
 ---
 
-## 👥 Community
+## Community
 
 * **Discord:** [Join our community](https://discord.gg/PxRbefBH)
 * **Email:** [hello@stylemind.in](mailto:hello@stylemind.in)
@@ -247,16 +250,16 @@ POST /api/user/credits/deduct
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under a **Private License**.
 
 ---
 
-**StyleMind Team** – Bringing the future of fashion to your browser! ✨
+**StyleMind Team** – Bringing the future of fashion to your browser
 
-*Built with ❤️ using cutting-edge AI technology*
+*Built with cutting-edge AI technology*
 
 ---
 
-Would you like me to also **add badges** (e.g., build status, license, Discord, Chrome Web Store link) at the top to make the README look more professional for GitHub?
+Would you like me to also **add a “Quick Start” section with a minimal code snippet** (showing how to call the try-on API) to make the README more developer-friendly?
