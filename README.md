@@ -34,10 +34,8 @@ Upload your photo or use an AI-generated avatar to see how clothes look before m
 ### Outfit Builder & Composition
 
 * Combine **shirts, pants, and accessories** seamlessly
-* **Layer-Aware Rendering** – Jackets over shirts, accessories on top
 * **Style Consistency** – Maintains visual coherence
-* **Interactive Mix-and-Match** – Real-time outfit editing & preview
-
+* pair a shirt with a pant and see combined look
 ---
 
 ## Safety & Trust
