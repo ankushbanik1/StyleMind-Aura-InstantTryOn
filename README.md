@@ -100,9 +100,9 @@ StyleMind’s pipeline ensures **natural try-on results**:
 
 ---
 
-## Installation
+## Installation 
 
-### Chrome Web Store
+### Chrome Web Store (comming soon - coz we have published the extension in webstore , waiting for approval and going live  )
 
 1. Visit [Chrome Web Store](https://chrome.google.com/webstore)
 2. Search for **StyleMind - AI Virtual Try-On**
