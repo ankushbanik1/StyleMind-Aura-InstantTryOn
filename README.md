@@ -1,6 +1,3 @@
-Got it 👍 — here’s your **README.md** reformatted without any emojis:
-
----
 
 # StyleMind – AI Virtual Try-On for E-commerce
 
@@ -259,7 +256,3 @@ This project is licensed under a **Private License**.
 **StyleMind Team** – Bringing the future of fashion to your browser
 
 *Built with cutting-edge AI technology*
-
----
-
-Would you like me to also **add a “Quick Start” section with a minimal code snippet** (showing how to call the try-on API) to make the README more developer-friendly?
